@@ -334,7 +334,14 @@ loan-policy-risk-analytics/
 └── .gitignore
 ```
 
-The original LendingClub dataset is not redistributed in this repository.
+## Data
+
+This project uses a LendingClub loan dataset provided for academic coursework.
+
+The original dataset is not redistributed in this repository due to data access
+and redistribution considerations.
+
+The repository focuses on the analytical workflow, methodology, and results.
 
 ---
 
